@@ -84,6 +84,17 @@ img {
   box-shadow: 2px 6px 12px rgba(0, 0, 0, 0.15);
 }
 
+.data-right-img {
+    width: 500px;
+    height: 350px;
+    box-shadow: 2px 6px 12px rgba(0, 0, 0, 0.15);
+    grid-column: 2 / 3;
+    grid-row: 2 / 2;
+    margin: 15px 35px 0 35px;
+    justify-content: center;
+    align-items: center;
+  }
+
 #info {
   font-size: 1em;
 }
