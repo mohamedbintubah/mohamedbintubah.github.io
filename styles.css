@@ -85,11 +85,11 @@ img {
 }
 
 .myimage1 {
-    width: 50px;
+    width: 400px;
     height: 350px;
     box-shadow: 2px 6px 12px rgba(0, 0, 0, 0.15);
     grid-column: 2 / 3;
-    grid-row: 2 / 2;
+    grid-row: 5 / 6;
     margin: 15px 35px 0 35px;
     justify-content: right;
     align-items: right;
