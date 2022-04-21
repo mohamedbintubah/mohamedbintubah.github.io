@@ -92,7 +92,8 @@ header {
   background-color: #61CEFF;
   display: grid;
   grid-template-columns: 1fr max-content repeat(3, max-content);
-  margin: 300px 15px 0 0;
+  margin: 10px 15px 0 0;
+  font-size: large;
   text-align: center;
   align-items: center;
   justify-content: center;
