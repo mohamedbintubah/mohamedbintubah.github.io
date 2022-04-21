@@ -105,6 +105,7 @@ footer {
   display: grid;
   grid-template-columns: 1fr max-content repeat(3, max-content);
   margin: 300px 15px 0 0;
+  text-align: center;
   align-items: center;
   justify-content: center;
   line-height: 2.75em;
