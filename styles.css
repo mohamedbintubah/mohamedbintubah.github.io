@@ -85,7 +85,7 @@ img {
 }
 
 .myimage1 {
-    width: 500px;
+    width: 350px;
     height: 350px;
     box-shadow: 2px 6px 12px rgba(0, 0, 0, 0.15);
     grid-column: 2 / 3;
