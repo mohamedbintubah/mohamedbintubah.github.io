@@ -84,7 +84,7 @@ img {
   box-shadow: 2px 6px 12px rgba(0, 0, 0, 0.15);
 }
 
-.data-right-img {
+.myimage1 {
     width: 500px;
     height: 350px;
     box-shadow: 2px 6px 12px rgba(0, 0, 0, 0.15);
@@ -92,7 +92,7 @@ img {
     grid-row: 2 / 2;
     margin: 15px 35px 0 35px;
     justify-content: center;
-    align-items: center;
+    align-items: right;
   }
 
 #info {
